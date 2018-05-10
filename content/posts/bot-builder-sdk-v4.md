@@ -3,6 +3,7 @@ title: "Bot Builder SDK v4 お試し"
 date: 2018-05-10T18:56:48+09:00
 thumbnail: "img/bot-builder-sdk-v4/bot-test-in-web-chat-b.png"
 draft: false
+tags: [ "bot", "Node.js" ]
 ---
 
 Bot Builder SDK v4
@@ -310,6 +311,13 @@ Bot Service を選択し、作成した Bot Service を選択します。
 *概要* > *再起動* をクリックし、アプリを再起動します。
 
 再起動しても `state.count` がリセットされずインクリメントされることが確認できます。
+
+コード
+-----
+
+今回実装したコードは次の場所に置いてあります。
+
+<https://github.com/rysh25/bot-builder-4-example>
 
 参考
 ----
