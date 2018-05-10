@@ -153,10 +153,7 @@ anaconda-mode/
 
 
 ### Hugo ###
-# Hugo binary
-hugo*
 
 # Generated files at default location
 /public/
 /resources/_gen
-

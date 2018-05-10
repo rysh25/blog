@@ -1,3 +1,21 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://blog.inthepuddle.net/"
+languageCode = "ja"
+title = "blog"
+theme = "hugo_theme_robust"
+disqusShortname = "bloginthepuddle"
+
+[params]
+  description = ""
+  dateformat = "Jan 2, 2006"
+  # Fonts settings.
+  googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700"
+  fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif"
+  logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+
+[params.author]
+  thumbnail = "images/author.jpg"
+  name = "白木 良平"
+  description = ""
+
+[outputs]
+page = [ "HTML", "AMP" ]
