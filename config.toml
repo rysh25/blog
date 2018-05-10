@@ -2,6 +2,7 @@ baseurl = "https://blog.inthepuddle.net/"
 languageCode = "ja"
 title = "blog"
 theme = "hugo_theme_robust"
+googleAnalytics = "UA-118994093-1"
 disqusShortname = "bloginthepuddle"
 
 [params]
