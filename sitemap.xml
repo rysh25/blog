@@ -8,7 +8,19 @@
   </url>
   
   <url>
+    <loc>https://blog.inthepuddle.net/tags/bot/</loc>
+    <lastmod>2018-05-10T18:56:48+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.inthepuddle.net/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.inthepuddle.net/tags/node.js/</loc>
+    <lastmod>2018-05-10T18:56:48+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,6 +32,7 @@
   
   <url>
     <loc>https://blog.inthepuddle.net/tags/</loc>
+    <lastmod>2018-05-10T18:56:48+09:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,9 +6,28 @@
     <description>Recent content in Tags on blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Thu, 10 May 2018 18:56:48 +0900</lastBuildDate>
     
 	<atom:link href="https://blog.inthepuddle.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bot</title>
+      <link>https://blog.inthepuddle.net/tags/bot/</link>
+      <pubDate>Thu, 10 May 2018 18:56:48 +0900</pubDate>
+      
+      <guid>https://blog.inthepuddle.net/tags/bot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Node.js</title>
+      <link>https://blog.inthepuddle.net/tags/node.js/</link>
+      <pubDate>Thu, 10 May 2018 18:56:48 +0900</pubDate>
+      
+      <guid>https://blog.inthepuddle.net/tags/node.js/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
