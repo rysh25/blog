@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Node.js on blog</title>
+    <link>https://blog.inthepuddle.net/tags/node.js/</link>
+    <description>Recent content in Node.js on blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 10 May 2018 18:56:48 +0900</lastBuildDate>
+    
+	<atom:link href="https://blog.inthepuddle.net/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bot Builder SDK v4 お試し</title>
+      <link>https://blog.inthepuddle.net/posts/bot-builder-sdk-v4/</link>
+      <pubDate>Thu, 10 May 2018 18:56:48 +0900</pubDate>
+      
+      <guid>https://blog.inthepuddle.net/posts/bot-builder-sdk-v4/</guid>
+      <description>&lt;h1 id=&#34;bot-builder-sdk-v4&#34;&gt;Bot Builder SDK v4&lt;/h1&gt;
+
+&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;
+
+&lt;p&gt;2018/5/7 (現地時間) に Microsoft Build 2018 にて Bot Builder SDK の v4 のプレビュー版が発表されました。&lt;/p&gt;
+
+&lt;p&gt;なので、Node.js で試しにボットを作成してみました。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
