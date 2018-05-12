@@ -1,5 +1,7 @@
 baseurl = "https://blog.inthepuddle.net/"
 languageCode = "ja"
+hasCJKLanguage = "true"
+enableRobotsTXT = "true"
 title = "blog.inthepuddle.net"
 theme = "hugo_theme_robust"
 googleAnalytics = "UA-118994093-1"
